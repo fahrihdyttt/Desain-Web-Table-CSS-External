@@ -2,7 +2,7 @@ package constructor.perpustakaan;
 
 public class Perpustakaan {
     public static void main(String[] args) {
-        // Menggunakan Constructor Parametrik
+
         Buku buku1 = new Buku("Cantik Itu Luka", "Eka Kurniawan", 2002, 12);
         Buku buku2 = new Buku("Gadis Kretek", "Ratih Kumala", 2012, 18);
 
