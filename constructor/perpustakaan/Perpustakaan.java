@@ -6,7 +6,6 @@ public class Perpustakaan {
         Buku buku1 = new Buku("Cantik Itu Luka", "Eka Kurniawan", 2002, 12);
         Buku buku2 = new Buku("Gadis Kretek", "Ratih Kumala", 2012, 18);
 
-        // Menggunakan Constructor Default & Setter
         Buku buku3 = new Buku();
         buku3.setJudul("Filosofi Teras");
         buku3.setPenulis("Henry Manampiring");
