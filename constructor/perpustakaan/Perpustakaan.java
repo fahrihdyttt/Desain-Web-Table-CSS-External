@@ -18,7 +18,6 @@ public class Perpustakaan {
         buku4.setTahunTerbit(2018);
         buku4.setStok(35);
 
-        // Menampilkan Informasi Buku
         tampilkanBuku(buku1);
         tampilkanBuku(buku2);
         tampilkanBuku(buku3);
